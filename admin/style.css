@@ -1,0 +1,178 @@
+header {background-color: #778baf; color: white; height: 200px;}
+footer {background-color: #ccc;}
+header section {  display: block;}
+
+header h1 {font-weight: bold; font-style: italic;}
+
+
+h1 { font-size:4em; color: white; text-align: center; padding-top: 20px; text-shadow: 2px 2px 2px #000;}
+
+form{
+	background-color: #e9ebee;
+	text-decoration: none;
+
+
+}
+#fname{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	text-shadow: 3px 2px 3px rgb(150,100,200);
+	padding-right: 15px;
+	display: inline-block;
+
+}
+#lname{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	text-shadow: 3px 2px 3px rgb(150,100,200);
+	padding-right: 15px;
+	display: inline-block;
+}
+#pw{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	text-shadow: 3px 2px 3px rgb(150,100,200);
+	padding-right: 23px;
+	display: inline-block;
+}
+#em{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	text-shadow: 3px 2px 3px rgb(150,100,200);
+	padding-right: 48px;
+	display: inline-block;
+}
+#nn{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	text-shadow: 3px 2px 3px rgb(150,100,200);
+	padding-right: 13px;
+	display: inline-block;
+}
+#cn{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	text-shadow: 3px 2px 3px rgb(150,100,200);
+	padding-right: 11px;
+	display: inline-block;
+}
+#g{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	text-shadow: 3px 2px 3px rgb(150,100,200);
+	padding-right: 25px;
+	display: inline-block;
+}
+#mess{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	text-shadow: 3px 2px 3px rgb(150,100,200);
+	padding-right: 25px;
+	display: inline-block;
+}
+#dob{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	text-shadow: 3px 2px 3px rgb(150,100,200);
+	padding-right: 5px;
+	display: inline-block;
+}
+#ss{
+	width: 5%;
+	padding: none;
+	background-color: rgb(250,100,100); 
+	cursor: pointer;
+	padding-left: 50%;
+ padding: 14px 15px;
+}
+#sss{
+	width: 55%;
+	padding: none;
+	background-color: rgb(250,100,100); 
+	cursor: pointer;
+	padding-left: 50%;
+ padding: 14px 15px;
+}
+ input{
+ 	padding-bottom: 15px;
+	box-shadow: 4px 3px 3px rgb(150,100,200);
+	padding-right: 50%;
+	border-radius: 4px;
+	margin: 7px 0;
+
+}
+#ss:hover{
+	background-color: red;
+}
+
+
+#choosecountry{
+		padding-bottom: 15px;
+	box-shadow: 4px 3px 3px rgb(150,100,200);
+	padding-right: 50%;
+	
+	border: none;
+	border-radius: 4px;
+}
+h2{
+	text-align: center;
+	font-family:Helvetica, Arial, sans-serif ;
+	text-decoration: underline;
+	text-shadow: 3px 4px 3px #22211D;
+	color: lightgreen;
+}
+
+
+main {min-height: 50vh; background-color: #ddd; width: 70vw; display: table; margin: auto; box-shadow: 0px 0px 10px #888; color:#444;}
+main {display: table;}
+
+main > nav {display: table-cell; width: 30%; padding: 2em;}
+main > nav li {float: none; width: auto; text-align: center; margin-left: 30%;}
+main > nav ul {width: auto;}
+main > form{background-color: #ddd;}
+main {display: flex; flex-direction: row;}
+nav {width: 100%; background-color: #333; overflow: auto;}
+nav ul {width: 1000px; margin: auto; display: block; list-style-type: none;}
+nav ul li {width: 25%; float: left; overflow: auto; text-align: center; }
+nav a {color: white; padding-top: 10px; display: block; text-decoration: none;}
+#ta{
+	float: right;
+	width:35%;
+	padding-left: 30px;
+}
+
+#alog h3{
+text-align: center;
+text-decoration: underline;
+font-family: Helvetica, Arial, sans-serif;
+color : red;
+font-size: 50px;
+}
+#alog fieldset{
+	width:40%;
+	text-align: center;
+	margin-left: 30%;
+	height: 40%;
+	background-color: #e9ebee;
+}
+#alog fieldset h2{
+	color: blue;
+	text-shadow: 7px 4px 2px gray;
+}
+#alog label{
+	font-family:  Helvetica, Arial, sans-serif;
+}
+#admi{
+	width:30%;
+	padding-right: 0%;
+	padding-top: 2%;
+}
+#ssss{
+	width: 70%;
+	padding-right: 50px;
+}
+#nth{
+	float: right;
+	width:25%;
+	padding-left: 30px;
+}

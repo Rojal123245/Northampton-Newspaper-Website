@@ -1,0 +1,128 @@
+header {background-color: #778baf; color: white; height: 200px;}
+footer {background-color: #ccc;}
+header section {  display: block;}
+
+header h1 {font-weight: bold; font-style: italic;}
+
+
+h1 { font-size:4em; color: white; text-align: center; padding-top: 20px; text-shadow: 2px 2px 2px #000;}
+
+form{
+	background-color: #e9ebee;
+	text-decoration: none;
+
+
+}
+#fname{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	text-shadow: 3px 2px 3px rgb(150,100,200);
+	padding-right: 15px;
+	display: inline-block;
+
+}
+#lname{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	text-shadow: 3px 2px 3px rgb(150,100,200);
+	padding-right: 15px;
+	display: inline-block;
+}
+#pw{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	text-shadow: 3px 2px 3px rgb(150,100,200);
+	padding-right: 23px;
+	display: inline-block;
+}
+#em{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	text-shadow: 3px 2px 3px rgb(150,100,200);
+	padding-right: 48px;
+	display: inline-block;
+}
+#nn{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	text-shadow: 3px 2px 3px rgb(150,100,200);
+	padding-right: 13px;
+	display: inline-block;
+}
+#cn{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	text-shadow: 3px 2px 3px rgb(150,100,200);
+	padding-right: 11px;
+	display: inline-block;
+}
+#g{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	text-shadow: 3px 2px 3px rgb(150,100,200);
+	padding-right: 25px;
+	display: inline-block;
+}
+#dob{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	text-shadow: 3px 2px 3px rgb(150,100,200);
+	padding-right: 5px;
+	display: inline-block;
+}
+#ss{
+	width: 5%;
+	padding: none;
+	background-color: rgb(250,100,100); 
+	cursor: pointer;
+	padding-left: 50%;
+ padding: 14px 15px;
+}
+#mess{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	text-shadow: 3px 2px 3px rgb(150,100,200);
+	padding-right: 25px;
+	display: inline-block;
+}
+ input{
+ 	padding-bottom: 15px;
+	box-shadow: 4px 3px 3px rgb(150,100,200);
+	padding-right: 50%;
+	border-radius: 4px;
+	margin: 7px 0;
+
+}
+#ss:hover{
+	background-color: red;
+}
+
+
+#choosecountry{
+		padding-bottom: 15px;
+	box-shadow: 4px 3px 3px rgb(150,100,200);
+	padding-right: 50%;
+	
+	border: none;
+	border-radius: 4px;
+}
+h2{
+	text-align: center;
+	font-family:Helvetica, Arial, sans-serif ;
+	text-decoration: underline;
+	text-shadow: 3px 4px 3px #22211D;
+	color: lightgreen;
+}
+
+nav ul ul {overflow: hidden; position: absolute; display: block; background-color: #333; width: 200px; margin-left: 20px; max-height: 0px; -webkit-transition: max-height 0.5s; transition: max-height 1s;}
+
+nav li:hover ul {  max-height: 500px;}
+nav ul ul li {float: none; width: auto; }
+nav {width: 100%; background-color: #333; overflow: auto;}
+nav ul {width: 1000px; margin: auto; display: block; list-style-type: none;}
+nav ul li {width: 25%; float: left; overflow: auto; text-align: center;}
+nav a {color: white; padding-top: 10px; display: block; text-decoration: none;}
+
+#hid{
+	opacity: 0;
+}
